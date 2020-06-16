@@ -1,3 +1,4 @@
+// Author Suraj Singh
 #include<stdio.h>
 #include<string.h>
 void main()
